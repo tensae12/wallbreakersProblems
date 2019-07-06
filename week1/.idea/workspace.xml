@@ -19,7 +19,7 @@
         <entry file="file://$USER_HOME$/Desktop/wallbreakers/week1/Sort Array By Parity.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -40,7 +40,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="731" />
@@ -96,8 +96,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="731" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1280" height="731" extended-state="1" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -130,7 +129,7 @@
     <entry file="file://$USER_HOME$/Desktop/wallbreakers/week1/Sort Array By Parity.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
