@@ -90,7 +90,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="23" width="1280" height="729" extended-state="1" />
+    <frame x="-1" y="23" width="1280" height="729" extended-state="0" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
