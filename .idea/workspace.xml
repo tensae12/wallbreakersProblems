@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="adf268ff-4f3f-4ff0-98b3-edac3ed8ff05" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/week2" beforeDir="false" />
-    </list>
+    <list default="true" id="adf268ff-4f3f-4ff0-98b3-edac3ed8ff05" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -42,6 +44,11 @@
               <item name="wallbreakers" type="b2602c69:ProjectViewProjectNode" />
               <item name="wallbreakers" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="wallbreakers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wallbreakers" type="462c0819:PsiDirectoryNode" />
+              <item name="week1" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -51,6 +58,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../wallbreak" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -78,7 +90,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="23" width="1280" height="729" extended-state="0" />
+    <frame x="-1" y="23" width="1280" height="729" extended-state="1" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
